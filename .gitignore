@@ -1,0 +1,2 @@
+// to avoid un_necessary files tracked by github we use gitignore e.g below
+node_modules/
